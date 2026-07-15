@@ -1,0 +1,19 @@
+# WireGuard and SSH secrets
+*.key
+*.conf
+*.pem
+*.p12
+*.mobileconfig
+*.qr
+
+# Environment files
+.env
+.env.*
+
+# Client configurations
+clients/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
